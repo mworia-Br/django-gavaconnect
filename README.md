@@ -116,3 +116,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ## Author
 **Brian Nganga**  
 [GitHub](https://github.com/mworia-Br) | [LinkedIn](https://www.linkedin.com/in/mworia-br/)
+
+## Disclaimer
+
+This package is not affiliated with or endorsed by Gava Connect. Use it at your own risk.
